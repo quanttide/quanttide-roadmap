@@ -7,3 +7,6 @@
 [submodule "domains/devops"]
 	path = domains/devops
 	url = https://github.com/quanttide/quanttide-roadmap-of-devops.git
+[submodule "default/company"]
+	path = default/company
+	url = https://github.com/quanttide/quanttide-roadmap-of-business-entity.git

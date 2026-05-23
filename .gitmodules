@@ -4,3 +4,6 @@
 [submodule "domains/agent"]
 	path = domains/agent
 	url = https://github.com/quanttide/quanttide-roadmap-of-agent-engineering.git
+[submodule "domains/devops"]
+	path = domains/devops
+	url = https://github.com/quanttide/quanttide-roadmap-of-devops.git

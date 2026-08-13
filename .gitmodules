@@ -1,6 +1,3 @@
-[submodule "default/founder"]
-	path = default/founder
-	url = https://github.com/quanttide/quanttide-memory-of-founder.git
 [submodule "domains/agent"]
 	path = domains/agent
 	url = https://github.com/quanttide/quanttide-roadmap-of-agent-engineering.git

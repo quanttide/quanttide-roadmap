@@ -7,3 +7,33 @@
 [submodule "default/company"]
 	path = default/company
 	url = https://github.com/quanttide/quanttide-roadmap-of-business-entity.git
+[submodule "domains/asset"]
+	path = domains/asset
+	url = https://github.com/quanttide/quanttide-roadmap-of-asset-management.git
+[submodule "domains/crowd"]
+	path = domains/crowd
+	url = https://github.com/quanttide/quanttide-roadmap-of-crowd-sourcing.git
+[submodule "domains/data"]
+	path = domains/data
+	url = https://github.com/quanttide/quanttide-roadmap-of-data-engineering.git
+[submodule "domains/delib"]
+	path = domains/delib
+	url = https://github.com/quanttide/quanttide-roadmap-of-deliberation-management.git
+[submodule "domains/execute"]
+	path = domains/execute
+	url = https://github.com/quanttide/quanttide-roadmap-of-execution-management.git
+[submodule "domains/human"]
+	path = domains/human
+	url = https://github.com/quanttide/quanttide-roadmap-of-human-resources.git
+[submodule "domains/meta"]
+	path = domains/meta
+	url = https://github.com/quanttide/quanttide-roadmap-of-philosophy.git
+[submodule "domains/pay"]
+	path = domains/pay
+	url = https://github.com/quanttide/quanttide-roadmap-of-payment-engineering.git
+[submodule "domains/think"]
+	path = domains/think
+	url = https://github.com/quanttide/quanttide-roadmap-of-cognitive-engineering.git
+[submodule "domains/write"]
+	path = domains/write
+	url = https://github.com/quanttide/quanttide-roadmap-of-narrative-engineering.git

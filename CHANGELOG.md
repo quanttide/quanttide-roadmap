@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## [Unreleased]
+
+### Added
+- 补充注册子模块：`domains/asset`、`domains/crowd`、`domains/data`、`domains/delib`、`domains/execute`、`domains/human`、`domains/meta`、`domains/pay`、`domains/think`、`domains/write`（10 个领域蓝图仓库，全量对齐 13 个）
+- 更新 `README.md`（补充仓库定位、结构树、子模块管理与关联说明）
+
 ## [v0.1.2] - 2026-05-23
 
 ### Added

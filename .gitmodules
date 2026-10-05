@@ -27,7 +27,7 @@
 	url = https://github.com/quanttide/quanttide-roadmap-of-human-resources.git
 [submodule "domains/meta"]
 	path = domains/meta
-	url = https://github.com/quanttide/quanttide-roadmap-of-philosophy.git
+	url = https://github.com/quanttide/quanttide-roadmap-of-meta-engineering.git
 [submodule "domains/pay"]
 	path = domains/pay
 	url = https://github.com/quanttide/quanttide-roadmap-of-payment-engineering.git

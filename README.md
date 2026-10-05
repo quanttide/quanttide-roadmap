@@ -20,7 +20,7 @@ quanttide-roadmap/
 │   ├── devops           → DevOps 工程蓝图（quanttide-roadmap-of-devops）
 │   ├── execute          → 执行管理蓝图（quanttide-roadmap-of-execution-management）
 │   ├── human            → 人力资源蓝图（quanttide-roadmap-of-human-resources）
-│   ├── meta             → 元工程蓝图（quanttide-roadmap-of-philosophy）
+│   ├── meta             → 元工程蓝图（quanttide-roadmap-of-meta-engineering）
 │   ├── pay              → 支付工程蓝图（quanttide-roadmap-of-payment-engineering）
 │   ├── think            → 认知工程蓝图（quanttide-roadmap-of-cognitive-engineering）
 │   └── write            → 写作管理蓝图（quanttide-roadmap-of-narrative-engineering）
